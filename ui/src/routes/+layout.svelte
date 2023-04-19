@@ -80,11 +80,16 @@
 
 <style>
   @font-face {
+    /*
     font-family: Inter;
     src: url("/Inter-SemiBold.otf");
+    */
+    font-family: ShinGo;
+    src: url("/G-OTF-GShinGoPro-Regular.otf");
   }
   div {
-    font-family:Inter;
+    /*font-family:Inter;*/
+    font-family: ShinGo;
     background: url("/background") no-repeat center center fixed;
     -webkit-background-size: auto;
     -moz-background-size: auto;
